@@ -5,3 +5,5 @@ source ~/.vim/settings/set_cursor_position.vim
 source ~/.vim/settings/set_rspec_syntax.vim
 source ~/.vim/settings/strip_trailing_whitespaces.vim
 source ~/.vim/settings/tab_navigation.vim
+
+set wrap
