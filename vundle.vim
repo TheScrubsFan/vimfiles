@@ -25,3 +25,4 @@ source ~/.vim/vundles/vim-snippets.vim
 source ~/.vim/vundles/vim-surround.vim
 source ~/.vim/vundles/vim-gitgutter.vim
 source ~/.vim/vundles/vim-elixir.vim
+source ~/.vim/vundles/vim-matchtags.vim
