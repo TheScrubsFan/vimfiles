@@ -1,5 +1,6 @@
 source ~/.vim/vundles/vundle.vim
 
+source ~/.vim/vundles/grep.vim
 source ~/.vim/vundles/auto-pairs.vim
 source ~/.vim/vundles/ctrlp-funky.vim
 source ~/.vim/vundles/ctrlp.vim
