@@ -15,8 +15,7 @@ set incsearch
 set smartcase
 
 set number                            " отображать номера строк
-"set nowrap                            " не переносить длинные строки
-set wrap
+set wrap                              " перенос строк"
 
 set laststatus=2                      " статусная строка включена всегда
 
@@ -28,11 +27,4 @@ if &term =~? 'mlterm\|xterm'
   set t_Co=256
 endif
 
-"colorscheme solarized
-"colorscheme deep-space
-"set guicolors
-colorscheme tender
-" enable tender lightline theme
-"let g:tender_lightline = 1
-" set lighline theme
-"let g:lightline = { 'colorscheme': 'tender'  }"
+colorscheme solarized
