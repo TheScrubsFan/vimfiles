@@ -1,3 +1,3 @@
-Bundle 'tyrannicaltoucan/vim-deep-space'
+Plugin 'tyrannicaltoucan/vim-deep-space'
 
 "colorscheme railscasts

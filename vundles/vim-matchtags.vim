@@ -1,1 +1,1 @@
-Bundle 'Valloric/MatchTagAlways'
+Plugin 'Valloric/MatchTagAlways'

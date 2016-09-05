@@ -1,4 +1,10 @@
-source ~/.vim/vundles/vundle.vim
+set nocompatible
+filetype off
+
+set rtp+=~/.vim/bundle/Vundle.vim/
+call vundle#begin()
+
+Plugin 'VundleVim/Vundle.vim'
 
 source ~/.vim/vundles/grep.vim
 source ~/.vim/vundles/bufOnly.vim
@@ -17,7 +23,6 @@ source ~/.vim/vundles/vim-colors-solarized.vim
 source ~/.vim/vundles/vim-indexed-search.vim
 source ~/.vim/vundles/vim-rails-apidock.vim
 source ~/.vim/vundles/vim-rails.vim
-source ~/.vim/vundles/vim-railscasts-theme.vim
 source ~/.vim/vundles/vim-ruby.vim
 source ~/.vim/vundles/vim-slim.vim
 source ~/.vim/vundles/vim-snipmate.vim
@@ -28,3 +33,6 @@ source ~/.vim/vundles/vim-elixir.vim
 source ~/.vim/vundles/vim-matchtags.vim
 source ~/.vim/vundles/vim-deep-space.vim
 source ~/.vim/vundles/vim-themes.vim
+
+call vundle#end()
+filetype plugin indent on

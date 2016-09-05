@@ -1,5 +1,5 @@
 " dependeicies
-Bundle 'xolox/vim-shell'
-Bundle 'xolox/vim-misc'
+Plugin 'xolox/vim-shell'
+Plugin 'xolox/vim-misc'
 
-Bundle 'xuwupeng2000/vim-rails-apidock'
+Plugin 'xuwupeng2000/vim-rails-apidock'

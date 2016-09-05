@@ -1,2 +1,2 @@
 " dependeicies
-Bundle 'airblade/vim-gitgutter'
+Plugin 'airblade/vim-gitgutter'

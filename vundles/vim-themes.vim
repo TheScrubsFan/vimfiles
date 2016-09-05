@@ -1,4 +1,4 @@
-Bundle 'rakr/vim-two-firewatch'
-Bundle 'jacoborus/tender.vim'
+Plugin 'rakr/vim-two-firewatch'
+Plugin 'jacoborus/tender.vim'
 
 "colorscheme railscasts

@@ -1,1 +1,1 @@
-Bundle 'vim-scripts/grep.vim'
+Plugin 'vim-scripts/grep.vim'
