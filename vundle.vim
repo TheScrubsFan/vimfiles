@@ -10,6 +10,7 @@ source ~/.vim/vundles/grep.vim
 source ~/.vim/vundles/bufOnly.vim
 source ~/.vim/vundles/auto-pairs.vim
 source ~/.vim/vundles/ctrlp.vim
+source ~/.vim/vundles/ctrlp-funky.vim
 source ~/.vim/vundles/emmet-vim.vim
 source ~/.vim/vundles/html5.vim
 source ~/.vim/vundles/nerdcommenter.vim
