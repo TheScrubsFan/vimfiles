@@ -1,3 +1,1 @@
-Plugin 'evserykh/vim-railscasts-theme'
-
-colorscheme railscasts
+Plugin 'jpo/vim-railscasts-theme'

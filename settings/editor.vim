@@ -27,4 +27,4 @@ if &term =~? 'mlterm\|xterm'
   set t_Co=256
 endif
 
-colorscheme solarized
+colorscheme railscasts
