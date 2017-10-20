@@ -24,6 +24,7 @@ source ~/.vim/vundles/vim-colors-solarized.vim
 source ~/.vim/vundles/vim-indexed-search.vim
 source ~/.vim/vundles/vim-rails-apidock.vim
 source ~/.vim/vundles/vim-rails.vim
+source ~/.vim/vundles/vim-editorconfig.vim
 source ~/.vim/vundles/vim-ruby.vim
 source ~/.vim/vundles/vim-javascript.vim
 source ~/.vim/vundles/vim-vue.vim
@@ -33,9 +34,10 @@ source ~/.vim/vundles/vim-snippets.vim
 source ~/.vim/vundles/vim-surround.vim
 source ~/.vim/vundles/vim-gitgutter.vim
 source ~/.vim/vundles/vim-elixir.vim
-"source ~/.vim/vundles/vim-matchtags.vim
-"source ~/.vim/vundles/vim-jshint.vim
+source ~/.vim/vundles/vim-matchtags.vim
 source ~/.vim/vundles/vim-deep-space.vim
+source ~/.vim/vundles/vim-org-mode.vim
+source ~/.vim/vundles/vim-speeddating.vim
 source ~/.vim/vundles/vim-themes.vim
 source ~/.vim/vundles/vim-railscasts-theme.vim
 source ~/.vim/vundles/vim-typescript.vim

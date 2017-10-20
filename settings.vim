@@ -7,3 +7,5 @@ source ~/.vim/settings/strip_trailing_whitespaces.vim
 source ~/.vim/settings/tab_navigation.vim
 
 au BufReadPost *.vue set syntax=html
+
+let g:syntastic_mode_map = { 'mode': 'passive' }
