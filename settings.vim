@@ -9,3 +9,6 @@ source ~/.vim/settings/tab_navigation.vim
 au BufReadPost *.vue set syntax=html
 
 let g:syntastic_mode_map = { 'mode': 'passive' }
+let g:ctrlp_custom_ignore = {
+      \ 'dir': 'node_modules'
+      \ }

@@ -41,6 +41,8 @@ source ~/.vim/vundles/vim-speeddating.vim
 source ~/.vim/vundles/vim-themes.vim
 source ~/.vim/vundles/vim-railscasts-theme.vim
 source ~/.vim/vundles/vim-typescript.vim
+source ~/.vim/vundles/vim-pug.vim
+source ~/.vim/vundles/vim-css3.vim
 
 call vundle#end()
 filetype plugin indent on
