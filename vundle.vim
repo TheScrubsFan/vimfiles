@@ -44,6 +44,8 @@ source ~/.vim/vundles/vim-typescript.vim
 source ~/.vim/vundles/vim-pug.vim
 source ~/.vim/vundles/vim-css3.vim
 source ~/.vim/vundles/vim-css-color.vim
+source ~/.vim/vundles/vim-tabnine.vim
+source ~/.vim/vundles/vim-indent-guides.vim
 
 call vundle#end()
 filetype plugin indent on
