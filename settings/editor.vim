@@ -29,3 +29,5 @@ if &term =~? 'mlterm\|xterm'
 endif
 
 colorscheme railscasts
+
+let g:snipMate = { 'snippet_version' : 1 }
