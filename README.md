@@ -3,19 +3,19 @@
 * Clone repo
 
 ```
-git clone https://github.com/PeoneEr/vimfiles.git ~/.vim
+git clone git@github.com:TheScrubsFan/vimfiles.git ~/Environment/vimfiles
 ```
 
 * Clone [vundle](https://github.com/gmarik/vundle)
 
 ```
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/Environment/vimfiles/bundle/Vundle.vim
 ```
 
 * Add to your .vimrc
 
 ```
-echo 'source ~/.vim/vimrc' >> ~/.vimrc
+echo 'source ~/Environment/vimfiles/vimrc' >> ~/.vimrc
 ```
 
 * Run Vim with command
