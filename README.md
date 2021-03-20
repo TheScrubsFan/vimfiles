@@ -1,5 +1,7 @@
 ### How to install ###
 
+Use /Environment folder, also you can use /.vim folder. Don`t forget rename all routes in this case.
+
 * Clone repo
 
 ```
