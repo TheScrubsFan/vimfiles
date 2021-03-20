@@ -1,10 +1,10 @@
-source ~/.vim/settings/editor.vim
-source ~/.vim/settings/f2_paste.vim
-source ~/.vim/settings/langmap.vim
-source ~/.vim/settings/set_cursor_position.vim
-source ~/.vim/settings/set_rspec_syntax.vim
-source ~/.vim/settings/strip_trailing_whitespaces.vim
-source ~/.vim/settings/tab_navigation.vim
+source ~/Work/vimfiles/settings/editor.vim
+source ~/Work/vimfiles/settings/f2_paste.vim
+source ~/Work/vimfiles/settings/langmap.vim
+source ~/Work/vimfiles/settings/set_cursor_position.vim
+source ~/Work/vimfiles/settings/set_rspec_syntax.vim
+source ~/Work/vimfiles/settings/strip_trailing_whitespaces.vim
+source ~/Work/vimfiles/settings/tab_navigation.vim
 
 "au BufReadPost *.vue set syntax=html
 autocmd BufNewFile,BufRead *.vue set ft=vue
