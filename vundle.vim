@@ -34,7 +34,7 @@ source ~/Environment/vimfiles/vundles/vim-snippets.vim
 source ~/Environment/vimfiles/vundles/vim-surround.vim
 source ~/Environment/vimfiles/vundles/vim-gitgutter.vim
 source ~/Environment/vimfiles/vundles/vim-elixir.vim
-source ~/Environment/vimfiles/vundles/vim-matchtags.vim
+"source ~/Environment/vimfiles/vundles/vim-matchtags.vim
 source ~/Environment/vimfiles/vundles/vim-deep-space.vim
 source ~/Environment/vimfiles/vundles/vim-org-mode.vim
 source ~/Environment/vimfiles/vundles/vim-speeddating.vim

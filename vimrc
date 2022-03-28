@@ -6,3 +6,6 @@ let NERDTreeShowHidden=1
 set nofixeol
 set noeol
 "set fileformats+=dos
+set wildignore+=*.DS_Store
+
+let NERDTreeRespectWildIgnore=1
